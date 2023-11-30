@@ -1,6 +1,5 @@
 # Async / Await demo using Axios
 
-Description of your project goes here.
 
 ## Usage of Axios and Async/Await
 
