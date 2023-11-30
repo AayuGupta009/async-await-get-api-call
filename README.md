@@ -12,3 +12,4 @@ This repository demonstrates how to use Axios, a popular HTTP client, to make as
 
    ```bash
    git clone https://github.com/AayuGupta009/async-await-get-api-call.git
+   cd async-await-get-api-call
